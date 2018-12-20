@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Http;
 using System.Web.Routing;
 
-namespace GetStartedwithASP.NETWebAPI2
+namespace GetStartedwithASPNETWebAPI2
 {
     public class WebApiApplication : System.Web.HttpApplication
     {
